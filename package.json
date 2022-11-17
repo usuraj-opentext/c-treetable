@@ -22,7 +22,7 @@
     "fp-ts": "^1.13.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.12.2",
+    "@angular-devkit/build-angular": "^15.0.0",
     "@angular/animations": "^7.2.1",
     "@angular/cdk": "^7.2.1",
     "@angular/cli": "^7.2.2",
